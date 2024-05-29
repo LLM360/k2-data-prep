@@ -1,4 +1,10 @@
-# k2-data-prep
+# Data Preparation Code for LLM360 K2-65B
+
+This repository contains the data preparation code for K2-65B, a 65 billion parameter
+large language model from LLM360.
+
+> [!NOTE]
+> This repository is under active development. If you have suggestions or find bugs, please open a GitHub issue or reach out.
 
 ### Prepare Raw Data Chunks
 ```
